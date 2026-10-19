@@ -8,9 +8,10 @@ export default function Menu() {
 
         {/* links para as páginas do sistema: menu de opções */}
         <li><Link href="/">Home</Link></li>
-        <li><Link href="/listar_pessoas">Listar pessoas</Link></li>
+        <li><Link href="/listar_comidas">Listar Comidas</Link></li>
         <li><Link href="/form_login">Login</Link></li>
         <li><Link href="/form_incluir_pessoa">Nova Pessoa</Link></li>
+        <li><Link href="/form_incluir_comida">Nova Comida</Link></li>
 
       </ul>
     </nav>
